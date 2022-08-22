@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-# Udemy-React-Refresher
+# Udemy-React-Refresher-To-Do-App
 
-This repository is created following the demos of the Udemy Next.js & React - The Complete Guide (incl. Two Paths!) course. 
+##This repository is created following the demos of the Udemy Next.js & React - The Complete Guide (incl. Two Paths!) course. 
 =======
 # Getting Started with Create React App
 
